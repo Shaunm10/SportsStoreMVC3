@@ -1,0 +1,63 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Infrastructure/f:NinjectControllerFactory.cs" caret="861" fromTop="21" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Binders/f:CartModelBinder.cs" caret="922" fromTop="27" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Controllers/f:ProductController.cs" caret="0" fromTop="0" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Views/d:Shared/f:_ProductSummary.cshtml" caret="0" fromTop="0" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Controllers/f:NavController.cs" caret="0" fromTop="0" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Views/f:_ViewStart.cshtml" caret="8" fromTop="1" />
+    <File id="579C2E83-41ED-4D67-9B32-6413984A2C05/d:WebUI/d:Controllers/f:CartControllerTests.cs" caret="5197" fromTop="20" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Views/d:Shared/f:_Layout.cshtml" caret="580" fromTop="21" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Content/f:Site.css" caret="3379" fromTop="17" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Entities/f:Product.cs" caret="695" fromTop="17" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/f:Web.config" caret="351" fromTop="9" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:HttpModules/f:NHibernateSessionPerRequestModule.cs" caret="2218" fromTop="45" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:HtmlHelpers/f:PagingHelpers.cs" caret="0" fromTop="0" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/f:Hibernate.cfg.xml" caret="657" fromTop="8" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/f:packages.config" caret="308" fromTop="7" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/f:Global.asax.cs" caret="0" fromTop="0" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:NHProductRepository.cs" caret="648" fromTop="17" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Entities/f:Cart.cs" caret="0" fromTop="0" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:MappingFiles/f:Product.hbm.xml" caret="0" fromTop="0" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Entities/f:ShippingDetails.cs" caret="429" fromTop="10" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Abstract/f:IOrderProcessor.cs" caret="0" fromTop="0" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:NHOrderProcessor.cs" caret="0" fromTop="0" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Controllers/f:CartController.cs" caret="2373" fromTop="34" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Views/d:Cart/f:Checkout.cshtml" caret="413" fromTop="16" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Views/d:Cart/f:Index.cshtml" caret="1790" fromTop="39" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Views/d:Cart/f:Summary.cshtml" caret="348" fromTop="9" />
+    <File id="501CC868-90DE-489C-8AA9-6D9DD6C68AB1/f:Test.build/s:..?Test.build" caret="527" fromTop="10" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:EmailOrderProcessor.cs" caret="4033" fromTop="19" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/f:Log4Net.config" caret="414" fromTop="9" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Content/f:Site.css" caret="3379" fromTop="17" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Views/d:Shared/f:_Layout.cshtml" caret="413" fromTop="10" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Views/d:Shared/f:_Layout.cshtml" caret="385" fromTop="9" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Views/d:Shared/f:_Layout.cshtml" caret="580" fromTop="21" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Entities/f:ShippingDetails.cs" caret="1273" fromTop="26" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Entities/f:ShippingDetails.cs" caret="283" fromTop="3" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:NHProductRepository.cs" caret="711" fromTop="20" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Entities/f:ShippingDetails.cs" caret="1116" fromTop="15" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Entities/f:ShippingDetails.cs" caret="1116" fromTop="21" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Views/d:Cart/f:Index.cshtml" caret="1790" fromTop="19" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Controllers/f:CartController.cs" caret="2436" fromTop="39" />
+    <File id="32435708-7EC5-4971-8A05-CD3CE5D52455/d:Views/d:Cart/f:Checkout.cshtml" caret="1070" fromTop="20" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Abstract/f:IOrderProcessor.cs" caret="514" fromTop="9" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Abstract/f:IOrderProcessor.cs" caret="283" fromTop="4" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Abstract/f:IOrderProcessor.cs" caret="333" fromTop="8" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:NHOrderProcessor.cs" caret="629" fromTop="13" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:MappingFiles/f:Product.hbm.xml" caret="389" fromTop="6" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Entities/f:ShippingDetails.cs" caret="1006" fromTop="29" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Entities/f:ShippingDetails.cs" caret="333" fromTop="7" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:EmailOrderProcessor.cs" caret="2769" fromTop="19" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:EmailOrderProcessor.cs" caret="695" fromTop="17" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:EmailOrderProcessor.cs" caret="2769" fromTop="29" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:EmailOrderProcessor.cs" caret="1261" fromTop="30" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:EmailOrderProcessor.cs" caret="4056" fromTop="50" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:EmailOrderProcessor.cs" caret="2858" fromTop="22" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:EmailOrderProcessor.cs" caret="1478" fromTop="12" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:EmailOrderProcessor.cs" caret="3518" fromTop="32" />
+    <File id="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9/d:Concrete/f:EmailOrderProcessor.cs" caret="3998" fromTop="18" />
+  </RecentEdits>
+</RecentFiles>

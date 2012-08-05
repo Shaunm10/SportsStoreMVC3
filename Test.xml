@@ -1,0 +1,11 @@
+<tasks>
+  <msbuild>
+    <executable>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe</executable>
+    <workingDirectory>C:\Code\Learning\SportsStoreMVC3\</workingDirectory>
+    <!--<projectFile>Utilities.csproj</projectFile>-->
+	<solutionFile>SportsStoreMVC3</solutionFile>
+    <timeout>900</timeout>
+    <!--<logger>C:\Program Files\CruiseControl.NET\server\ThoughtWorks.CruiseControl.MsBuild.dll</logger>-->
+  </msbuild>
+  <artifactcleanup   cleanUpMethod="KeepLastXBuilds"   cleanUpValue="5" />
+</tasks>

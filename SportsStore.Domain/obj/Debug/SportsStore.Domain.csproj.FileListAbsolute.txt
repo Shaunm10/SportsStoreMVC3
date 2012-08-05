@@ -1,0 +1,15 @@
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\bin\Debug\Iesi.Collections.dll
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\bin\Debug\Moq.dll
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\bin\Debug\NHibernate.dll
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\bin\Debug\Ninject.dll
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\bin\Debug\Iesi.Collections.xml
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\bin\Debug\Moq.pdb
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\bin\Debug\Moq.xml
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\bin\Debug\NHibernate.xml
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\bin\Debug\Ninject.pdb
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\bin\Debug\Ninject.xml
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Code\experiment\SportsStoreMVC3\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb

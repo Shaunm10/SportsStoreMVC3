@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="SportsStore.Domain" namespace="SportsStore">
+  <class name="SportsStore.Domin.Entities.Order, SportsStore.Domain" table="Orders">
+    <id name="OrderId" column="OrderId" type="Int32" unsaved-value="0">
+      <generator class="native"></generator>
+    </id>
+    <property name="Name"
+    
+  </class>
+</hibernate-mapping>
+                   

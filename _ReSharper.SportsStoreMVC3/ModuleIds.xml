@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="764AFFD3-68C5-4790-A8DE-9C30CD2F26E9" ModuleId="SportsStore.Domain" />
+  <Module PersistentId="579C2E83-41ED-4D67-9B32-6413984A2C05" ModuleId="SportsStore.UnitTests" />
+  <Module PersistentId="32435708-7EC5-4971-8A05-CD3CE5D52455" ModuleId="SportsStore.WebUI" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="System.Web.Mvc" />
+  <Module PersistentId="System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Web" />
+</Modules>
