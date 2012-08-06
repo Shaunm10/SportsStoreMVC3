@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"
+         ToolsVersion="4.0"
+         DefaultTargets="Compile">
+
+  <ItemGroup>
+    <BuildArtifactDirectory Include=".\buildDirectory\"/>
+    <SolutionFile Include=".\SportsStoreMVC3.sln"/>
+  </ItemGroup>
+  
+  <Target Name="Clean">
+    <RemoveDir Directories="@(BuildArtifactDirectory)"/>
+  </Target>
+
+  <Target Name="CreateDirectory" DependsOnTargets="Clean">
+    <MakeDir Directories="@(BuildArtifactDirectory)"/>
+  </Target>
+
+  <Target Name="Compile" DependsOnTargets="CreateDirectory">
+    <MSBuild Projects="@(SolutionFile)" Targets="Rebuild" Properties="OutDir=%(BuildArtifactDirectory.FullPath)"/>
+  </Target>
+  
+</Project>
